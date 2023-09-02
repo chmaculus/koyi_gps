@@ -1,0 +1,6 @@
+AuthType Basic
+AuthName "Password Required"
+AuthUserFile /etc/htaccess/gps.htaccess
+#Require User claudia18
+Require valid-user
+

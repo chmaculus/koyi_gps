@@ -1,0 +1,17 @@
+tabla proveedores
+fecha factura
+tipo factura
+importe
+
+
+
+tabla relacion sociedades sucursales
+
+datos que ingresa el contador
+
+
+
+tipo ingreso
+compra
+venta
+bca
